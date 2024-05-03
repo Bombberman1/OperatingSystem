@@ -1,0 +1,7 @@
+Date: Tue Mar 26 03:52:45 EET 2024
+User: oleg
+PC: Oleg
+Version: 4.4.0-19041-Microsoft
+Size: 4.0K
+Big: 12K	.
+Small: 0	./.vscode
